@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="css/style.css" />
+  <title>Tabela</title>
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <h1>Landing<span>Page</span></h1>
+    </div>
+    <ul>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Skills</a></li>
+      <li><a href="#">Projects</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </header>
+
+  <section class="hero">
+    <h1>Buy for only $15!</h1>
+    <div class="circle"></div>
+    <input type="submit" value="Comprar" />
+  </section>
+
+  <section class="card-section">
+    <div class="card-container">
+      <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnaIM1utjv1b7LupMjiqleLf2AS9oxvFPRMg&s" alt="black card" />
+      </div>
+      <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnaIM1utjv1b7LupMjiqleLf2AS9oxvFPRMg&s" alt="black card" />
+      </div>
+      <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnaIM1utjv1b7LupMjiqleLf2AS9oxvFPRMg&s" alt="black card" />
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="rodape-container">
+      <div class="sobre">
+        <h1>Sobre</h1>
+        <p>Somos apaixonados por produtos de qualidade e inovação.</p>
+      </div>
+      <div class="contato">
+        <h1>Contato</h1>
+        <p>Email: contato@brand.com</p>
+      </div>
+      <div class="redes-sociais">
+        <h1>Redes Sociais</h1>
+        <p>Instagram | Facebook | Twitter</p>
+        <p>©2025 BrandLogo - Todos os direitos reservados</p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
